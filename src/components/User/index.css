@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 80%;
+  flex-wrap: wrap;
+  background-color: aliceblue;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.list-item h1 {
+  font-family: DM Sans;
+  font-size: bold;
+}
+
+.head {
+  font-family: DM Sans;
+  color: chartreuse;
+}
